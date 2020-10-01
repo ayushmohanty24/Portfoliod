@@ -1,0 +1,47 @@
+#back {
+    background-image:
+    linear-gradient(to top, rgba(17, 11, 15, 0.73), rgba(14, 8, 12, 0.73)),
+    url('https://images.unsplash.com/photo-1600828576828-26c3e1074a92?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 20px;
+}
+#head-tit{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: rgb(7, 20, 7);
+}
+#fb-btn{
+    width: 250px;
+    background-color: rgb(16, 16, 112);
+    color: white;
+}
+#hr-tag{
+    width: 500px;
+    height: 10px;
+}
+#reg{
+    padding-bottom: 20px;
+    color: black;
+    font-weight: bolder;
+}
+#sign-btn{
+    width: 300px;
+    background-color: rgb(5, 143, 30);
+    color: rgb(7, 7, 7);
+}
+.form-page{
+    background-color: white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-radius: 2%;
+}
+input{
+    color: black;
+}
